@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate about Web Development and IT in g
 
 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=stars&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agitdev1&show_icons=true&hide=stars&theme=default)
 
 🔗 Connect With Me
 
