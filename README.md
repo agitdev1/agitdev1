@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate about Web Development and IT in g
 
 - 🔭 I’m currently working on: Lost and Found Platform for my University!
 - 🌱 I’m learning: Intro to Cybersecurity
-- 📫 How to reach me: https://www.linkedin.com/in/agather-medina/
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agathermedinal@gmail.com)
 
 🧰 Tech Stack
 
@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm a passionate about Web Development and IT in g
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agather-medina/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agathermedinal@gmail.com)
 
 
 
