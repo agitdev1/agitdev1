@@ -1,9 +1,4 @@
 <h1 align="center">Hi there, I'm agitdev1! 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=%7C+UI%2FUX+Designer+%7C+Developer;Tech+%26+Creativity" alt="Typing SVG" />
-</p>
-
----
 
 ## 👨‍🎓 About Me
 - 🎓 IT student at **Lyceum of the Philippines University Manila**
