@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm agitdev1! 👋</h1>
+<h1 align="center">Hi there, I'm Aga! 👋</h1>
 
 ## 👨‍🎓 About Me
 - 🎓 IT student at **Lyceum of the Philippines University Manila**
